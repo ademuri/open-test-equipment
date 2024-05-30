@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,HRO_TYPE-C-31-M-12,1,TYPE-C-31-M-12,C165948
+"J2, J3",Banana_Jack_1Pin,2,Conn_01x01,C4994335
+"R1, R2",0603,2,10k,C25804
