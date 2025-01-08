@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",0603,2,LED,C2286
+"J1, J4",HRO_TYPE-C-31-M-12,2,TYPE-C-31-M-12,C165948
+"J2, J3",Banana_Jack_1Pin,2,Conn_01x01,Keystone 575-8
+"R1, R2",0603,2,10k,C25804
+"R3, R4",0603,2,5k1,C23186
+"R5, R6",0603,2,1k,C21190

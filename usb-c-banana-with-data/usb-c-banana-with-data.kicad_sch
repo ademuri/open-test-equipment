@@ -1443,15 +1443,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4994335"
-			(at 20.32 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "Keystone 575-8"
 			(at 20.32 58.42 0)
 			(effects
@@ -3023,15 +3014,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 20.32 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C4994335"
 			(at 20.32 38.1 0)
 			(effects
 				(font
